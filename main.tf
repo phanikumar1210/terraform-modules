@@ -65,3 +65,5 @@ resource "github_branch_protection_v3" "example" {
     apps  = var.restriction_apps
   }
 }
+
+# adding comments to terraform new repo
